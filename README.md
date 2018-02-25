@@ -1,1 +1,3 @@
 # litecoingold
+
+http://ltcgold.org
